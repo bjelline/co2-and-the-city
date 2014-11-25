@@ -2,3 +2,7 @@
 *~
 .DS_Store
 .ipynb_checkpoints
+msa_ranked_by_emissions_per_capita.csv
+scatter_and_fit_log_emission_vs_log_population.jpg
+scatter_emission_vs_population.jpg
+scatter_log_emission_vs_log_population.jpg
